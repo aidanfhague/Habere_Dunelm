@@ -1,0 +1,32 @@
+package monopoly.engine;
+
+public enum GameActionType {
+    ROLL_DICE,
+
+    BUY_PROPERTY,
+    START_AUCTION,
+    AUCTION_BID,
+    AUCTION_PASS,
+    BUILD_HOUSE,
+    BUILD_HOTEL,
+    SELL_HOUSE,
+    SELL_HOTEL,
+    USE_GET_OUT_OF_JAIL_FREE,
+
+    MORTGAGE,
+    UNMORTGAGE,
+
+    PROPOSE_TRADE,
+    ACCEPT_TRADE,
+    REJECT_TRADE,
+    CANCEL_TRADE,
+    COUNTER_TRADE,
+
+
+    END_TURN
+}
+
+
+
+
+
