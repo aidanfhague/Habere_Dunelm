@@ -5,55 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a988f0-6d2b-4b27-94ce-fc6e82ff64f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/PrintDeedTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/ai/TradePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/ai/TurnPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/ActionResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/CardDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/CardEffect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameActionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/GameStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/PropertyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/TurnPhase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/trade/BuildAdvisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/trade/MortgageTransferChoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/trade/TradeAdvisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/trade/TradeOffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/engine/trade/TradeResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/model/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/model/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/model/TileType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/rules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/BoardDestinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/BoardLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/CardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/ColourGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/DeedProfiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/monopoly/setup/StandardBoardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +62,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -150,7 +102,7 @@
       <workItem from="1770313329618" duration="8000" />
       <workItem from="1770502913714" duration="415000" />
       <workItem from="1770916634343" duration="518000" />
-      <workItem from="1770917303368" duration="13007000" />
+      <workItem from="1770917303368" duration="13548000" />
     </task>
     <servers />
   </component>
